@@ -48,11 +48,3 @@ This project requires the following dependencies:
 * **Programming Language:** JavaScript
 * **Package Manager:** Npm
 
-### Installation
-
-Build courseapp from the source and install dependencies:
-
-1. **Clone the repository:**
-   ```bash
-   git clone [https://github.com/RishitTheshiya/courseapp](https://github.com/RishitTheshiya/courseapp)
-   

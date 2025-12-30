@@ -1,6 +1,6 @@
-# Course App Backend
+# Course App 
 
-This is the backend for a course purchasing platform where admins can create courses and users can buy them using Stripe payments.
+This is the app for a course purchasing platform where admins can create courses and users can buy them using Stripe payments.
 
 Built with Node.js, Express, MongoDB, Stripe, and Cloudinary.
 
@@ -28,5 +28,4 @@ Built with Node.js, Express, MongoDB, Stripe, and Cloudinary.
 
 ---
 
-## Project Structure
 

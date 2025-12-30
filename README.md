@@ -19,6 +19,7 @@ Built with Node.js, Express, MongoDB, Stripe, and Cloudinary.
 
 ## Tech Stack
 
+- React
 - Node.js
 - Express.js
 - MongoDB (Mongoose)
